@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6JTKAZKP6D.SB.LegalSolutionPlatform1",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "ABCD1234.SB.LegalSolutionPlatform",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
